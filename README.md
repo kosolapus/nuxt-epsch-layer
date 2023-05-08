@@ -2,7 +2,7 @@
 
 Pre-configured nuxt layer for speed-up development and less boilerplate code. Includes:
 
-TBD...
+Run: `npx nuxi init --template gh:kosolapus/nuxt-epsch-layer`
 
 ## Eslint
 
