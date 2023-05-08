@@ -33,7 +33,7 @@
     "eslint-plugin-autofix": "^1.1.0",
     "eslint-plugin-nuxt": "^4.0.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "eslint-plugin-simple-import-sort": "^8.0.0",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
     "eslint-plugin-vue": "^9.5.1",
     "husky": "^7.0.4",
     "lint-staged": "^12.1.2",
