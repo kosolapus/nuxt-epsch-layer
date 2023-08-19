@@ -12,5 +12,6 @@ module.exports = {
     'simple-import-sort/exports': 'error',
     'autofix/no-debugger': 'error',
     'vue/no-v-for-template-key': 'off',
+    'comma-dangle': ['error', 'always-multiline'],
   },
 }
