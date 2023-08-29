@@ -15,4 +15,4 @@ To init in current directory:
 `npx nuxi init --template gh:kosolapus/nuxt-epsch-layer --force ./`
 
 You should not use this layer as Nuxt layer in config.extends,
-because it won't work (here only IDE/git instructions contains)
+because it won't work (it only contains IDE/git instructions)
