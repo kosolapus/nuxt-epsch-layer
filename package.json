@@ -21,7 +21,7 @@
     "*.**": "prettier --check --ignore-unknown"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.22.10",
+    "@babel/eslint-parser": "^7.22.15",
     "@commitlint/cli": "^17.6.7",
     "@commitlint/config-conventional": "^17.6.3",
     "@nuxt/types": "^2.17.1",
