@@ -10,7 +10,7 @@ also installs the latest version of Nuxt
 
 Run: `npx nuxi init --template gh:kosolapus/nuxt-epsch-layer`
 
-To init in current directory:
+To init in the current directory:
 
 `npx nuxi init --template gh:kosolapus/nuxt-epsch-layer --force ./`
 
